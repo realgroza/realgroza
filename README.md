@@ -83,16 +83,7 @@ local developer = {
 ## GitHub İstatistikleri
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=realgroza&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realgroza&layout=compact&theme=tokyonight&hide_border=true&locale=tr" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=realgroza&theme=tokyonight&hide_border=true&locale=tr" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=realgroza&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
