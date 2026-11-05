@@ -2,14 +2,14 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/KULLANICI_ADIN">
+  <a href="https://github.com/realgroza">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Lua+%7C+JavaScript+%7C+Vue.js;MySQL+%7C+PostgreSQL+%7C+MariaDB;Fikirden+Production'a+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 Hakkımda
+## Hakkımda
 
 ```lua
 local developer = {
@@ -23,7 +23,7 @@ local developer = {
 }
 ```
 
-- 🔭 Şu an üzerinde çalıştığım: **ölçeklenebilir full-stack projeler**
+- Şu an üzerinde çalıştığım: **ölçeklenebilir full-stack projeler**
 - 🌱 Öğrendiğim: **sistem mimarisi & performans optimizasyonu**
 - ⚡ Uzmanlık: **Lua scripting, Vue ekosistemi, ilişkisel veritabanı tasarımı**
 - 💬 Bana sor: **backend, veritabanı, Vue, Lua — ne ararsan**
