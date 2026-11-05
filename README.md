@@ -7,11 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=realgroza&label=Profil%20Görüntülenme&color=42b883&style=flat" alt="profil görüntülenme" />
-  <img src="https://img.shields.io/github/followers/realgroza?label=Takipçi&style=flat&color=2C2D72" alt="takipçi" />
-</p>
-
 ---
 
 ## 🧑‍💻 Hakkımda
