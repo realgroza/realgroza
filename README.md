@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, ben GROZA 👋</h1>
-<h3 align="center">Full-Stack Developer · Backend'den Frontend'e, Veritabanından Sunucuya</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/KULLANICI_ADIN">
